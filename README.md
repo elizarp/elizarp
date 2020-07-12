@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elizarp)](https://github.com/elizarp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerzarpelao/)](https://www.linkedin.com/in/eliezerzarpelao/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eliezerzarpelao)](https://twitter.com/eliezerzarpelao)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eliezerzarpelao/)](https://www.instagram.com/eliezerzarpelao/)
 
-<!--
-**elizarp/elizarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eliézer Zarpelão
 
-Here are some ideas to get you started:
+Bacharel em Sistemas de Informação | Especialista em Engenharia de Software | Arquiteto de Software | Professor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Sobre Mim 
+
+Há mais de 15 anos atuando no desenvolvimento de soluções Web principalmente utilizando tecnologias Microsoft (.NET e SQL Server). Atualmente atuo como arquiteto de software na ZarpSystem, professor universitário na UNAERP e violoncelista nas [poucas] horas vagas. Especialista em Engenharia de Software pela Unicamp e Graduado em Sistemas de Informação pela USP. 
+
+:computer: Mais informações, palestras e projetos [Portfólio](http://eliezerzarpelao.eti.br)
+
+:writing_hand:  Artigos técnicos no [Medium](https://medium.com/@eliezer.zarpelao)
+
+## Visitas
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=elizarp.elizarp)
+
+---
+⭐️ Agradecimentos a [Elisandro Mello(https://github.com/iamelisandromello)
