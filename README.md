@@ -1,3 +1,4 @@
+[![WebSite Badge](https://img.shields.io/badge/-Website-C13584?style=flat-square&labelColor=C13584&logo=linux&logoColor=white&link=https://www.eliezerzarpelao.eti.bt)](https://www.eliezerzarpelao.eti.br/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elizarp)](https://github.com/elizarp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerzarpelao/)](https://www.linkedin.com/in/eliezerzarpelao/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eliezerzarpelao)](https://twitter.com/eliezerzarpelao)
