@@ -1,8 +1,8 @@
-[![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=flat-square&labelColor=informational&logo=linux&logoColor=white&link=https://www.eliezerzarpelao.eti.bt)](https://www.eliezerzarpelao.eti.br/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elizarp)](https://github.com/elizarp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerzarpelao/)](https://www.linkedin.com/in/eliezerzarpelao/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eliezerzarpelao)](https://twitter.com/eliezerzarpelao)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eliezerzarpelao/)](https://www.instagram.com/eliezerzarpelao/)
+[![WebSite Badge](https://img.shields.io/badge/-Website-informational?style=for-the-badge&labelColor=informational&logo=linux&logoColor=white&link=https://www.eliezerzarpelao.eti.bt)](https://www.eliezerzarpelao.eti.br/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/elizarp)](https://github.com/elizarp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezerzarpelao/)](https://www.linkedin.com/in/eliezerzarpelao/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eliezerzarpelao)](https://twitter.com/eliezerzarpelao)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eliezerzarpelao/)](https://www.instagram.com/eliezerzarpelao/)
 
 # Eliézer Zarpelão
 
