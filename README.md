@@ -11,7 +11,7 @@
 
 Bacharel em Sistemas de Informação | Especialista em Engenharia de Software | Tech Architect
 
-Há mais de 16 anos atuando no desenvolvimento de soluções Web principalmente utilizando tecnologias Microsoft (.NET e SQL Server). Atualmente atuo como Manager Tech Architect na Avanade, instrutor da DIO, palestrante e violoncelista nas [poucas] horas vagas. Especialista em Engenharia de Software pela Unicamp, Graduado em Sistemas de Informação pela USP e futuro mestre em Ciências da Computação.
+Há mais de 17 anos atuando no desenvolvimento de soluções Web principalmente utilizando tecnologias Microsoft (.NET e SQL Server). Atualmente atuo como Manager Tech Architect na Avanade, instrutor da DIO, palestrante e violoncelista nas [poucas] horas vagas. Especialista em Engenharia de Software pela Unicamp, Graduado em Sistemas de Informação pela USP e mestrando em Ciências da Computação na Unicamp.
 
 :computer: Mais informações, palestras e projetos [http://eliezerzarpelao.eti.br](http://eliezerzarpelao.eti.br)
 
