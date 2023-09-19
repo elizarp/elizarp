@@ -7,14 +7,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eliezerzarpelao/)](https://www.instagram.com/eliezerzarpelao/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/EliézerZarpelao/)](https://www.youtube.com/EliézerZarpelão/)
 
-💬 Sobre Mim
+💬 About me
 
-Bacharel em Sistemas de Informação | Especialista em Engenharia de Software | Tech Architect
+Consulting Engineer @ Neo4j
 
-Há mais de 17 anos atuando no desenvolvimento de soluções Web principalmente utilizando tecnologias Microsoft (.NET e SQL Server). Atualmente atuo como Manager Tech Architect na Avanade, instrutor da DIO, palestrante e violoncelista nas [poucas] horas vagas. Especialista em Engenharia de Software pela Unicamp, Graduado em Sistemas de Informação pela USP e mestrando em Ciências da Computação na Unicamp.
+For over 18 years delivering innovative solutions. Currently I work as Consulting Engineer at Neo4j, technology content producer and cellist (in my spare time). I'm specialist in Software Engineering from Unicamp, graduated in Information Systems from USP and future Master in Computer Science from Unicamp.
 
-:computer: Mais informações, palestras e projetos [http://eliezerzarpelao.eti.br](http://eliezerzarpelao.eti.br)
+:computer: More info [http://eliezerzarpelao.eti.br](http://eliezerzarpelao.eti.br)
 
-## Visitas
+## Visits
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=elizarp.elizarp)
+![Visits](https://visitor-badge.glitch.me/badge?page_id=elizarp.elizarp)
